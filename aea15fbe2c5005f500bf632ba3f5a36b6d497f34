@@ -1,0 +1,8 @@
+Change-Id: Iaea15fbe2c5005f500bf632ba3f5a36b6d497f34
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:38:56 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4953
+Project: platform/upstream/xineramaproto
+Branch: refs/heads/tizen
