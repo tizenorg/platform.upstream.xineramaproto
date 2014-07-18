@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           xineramaproto
 Version:        1.2.1
 Release:        1
